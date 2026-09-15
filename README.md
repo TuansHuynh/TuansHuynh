@@ -13,36 +13,6 @@ Database       → PostgreSQL · Supabase
 DevOps         → Docker · Git · GitHub · Vercel
 Currently      → Go · Rust · AI Engineering
 ```
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 AI Knowledge Platform
-
-> AI-powered knowledge and document management platform.
-
-* Document storage and management
-* Workspace & notes
-* AI-powered search and summarization
-* Knowledge organization
-* Designed as a scalable full-stack system
-
-**Stack:** `React` `TypeScript` `Go` `PostgreSQL` `Docker` `AI`
-
----
-
-### 📱 Keep Us
-
-> A private 1-to-1 photo and moment sharing application.
-
-* Capture and share daily moments
-* Personal timeline
-* Simple and intimate UI
-* Mobile-first experience
-
-**Stack:** `Flutter` `Dart`
-
 ---
 
 ## 🛠️ Tech Stack
