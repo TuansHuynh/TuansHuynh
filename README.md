@@ -1,57 +1,158 @@
-### Good night 😴
+# Hi, I'm Huynh Anh Tuan 👋
 
-<h2>I'm Tuan Huynh, a Full Stack Developer. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+### Full-Stack Developer · React · TypeScript · Java · Go
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> SKILL
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=TuansHuynh&show_icons=true&theme=synthwave">](https://metrics.lecoq.io/ouuan?template=classic)
+I'm a developer who enjoys building clean, practical, and scalable software.
 
-- Understands `OOP` well
-- `HTML`, `CSS`, `Bootstrap`: proficient
-- Strong skills in `JQuery`, `MySQL`, `PHP`
-- Excellent with the `Laravel` framework for web design
-- Proficient with `Git`
-- Learning the `Agile` mindset
-- Knowledge of `Vue.js` and `Vuex`
-- Skill in `Unit Testing`
-- Experience in manual and `automated deployment`
-- Familiar with `AWS`
+I mainly work with **React / TypeScript** on the frontend and **Java / Go** on the backend. I'm currently expanding my knowledge in **Next.js, Go, Rust, AI systems, and software architecture**.
 
-## <img src="https://emojis.slackmojis.com/emojis/images/1643515721/17468/homersimpson-pbjdance.gif?1643515721" width="30" /> CERTIFICATES
-<img src="https://images.viblo.asia/1f5d99d1-8cb7-4d82-a627-d6934d20d94b.png" width="100" />
+```text
+Frontend       → React · TypeScript · Next.js · HTML · SCSS
+Backend        → Java · Spring Boot · Go · REST API
+Database       → PostgreSQL · Supabase
+DevOps         → Docker · Git · GitHub · Vercel
+Currently      → Go · Rust · AI Engineering
+```
 
-## <img src="https://images.viblo.asia/a22cc9ed-e446-4eae-ad55-1ddf8afbaa54.gif" width="30" /> CONTRIBUTIONS
-[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TuansHuynh&show_icons=true&theme=synthwave&layout=compact">](https://metrics.lecoq.io/ouuan?template=classic)
+---
 
-#### 06/2020
-**Contributor at Laravel**: 
-- https://github.com/laravel/framework/pull/33278
-- https://github.com/laravel/framework/pull/49669
+## 🚀 Featured Projects
 
-#### 2019
-**Contributor at Chat++**: 
-- https://github.com/wataridori/chatpp/graphs/contributors
+### 🧠 AI Knowledge Platform
 
-#### Present
-Owner of packages `Laravel monitoring` and `Nginx monitoring`
-- https://github.com/AvengersCodeLovers/laravel-log-monitoring
-- https://github.com/AvengersCodeLovers/nginx-log-monitoring
+> AI-powered knowledge and document management platform.
 
-## 📂 MY PROJECTS
+* Document storage and management
+* Workspace & notes
+* AI-powered search and summarization
+* Knowledge organization
+* Designed as a scalable full-stack system
 
-> 🔄 *Auto-updated: 2026-09-15*
+**Stack:** `React` `TypeScript` `Go` `PostgreSQL` `Docker` `AI`
 
-| Repository | Description | Language | ⭐ Stars | 🍴 Forks |
-|:-----------|:------------|:--------:|--------:|---------:|
-| [TuansHuynh](https://github.com/TuansHuynh/TuansHuynh) | _No description_ | JavaScript | 0 | 0 |
-| [internal-tool-api](https://github.com/TuansHuynh/internal-tool-api) | _No description_ | TypeScript | 1 | 0 |
-| [kl2st](https://github.com/TuansHuynh/kl2st) | _No description_ | TypeScript | 1 | 0 |
-| [lab10](https://github.com/TuansHuynh/lab10) | _No description_ | JavaScript | 0 | 0 |
+---
 
-## <img src="https://i.imgur.com/g4uAchW.gif" width="30" /> ABOUT ME
-💬 Ask me anything: [chillwithsu.com](https://chillwithsu.com/)
+### 📚 Personal English Learning Platform
 
-## Quote of the day:
-*"If you're not failing every now and again, it's a sign you're not doing anything very innovative."* <br>
-— Woody Allen
+> A personal web application for improving English vocabulary from A1 to B2.
 
-⚡ Fun fact: ***No pain, no gain***
+* Vocabulary learning
+* Vietnamese meanings
+* Level-based learning
+* Fast and lightweight architecture
+
+**Stack:** `React` `TypeScript`
+
+---
+
+### 📱 Keep Us
+
+> A private 1-to-1 photo and moment sharing application.
+
+* Capture and share daily moments
+* Personal timeline
+* Simple and intimate UI
+* Mobile-first experience
+
+**Stack:** `Flutter` `Dart`
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square\&logo=rust\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square\&logo=dart\&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square\&logo=sass\&logoColor=white)
+
+**Backend & Database**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=flat-square\&logo=supabase\&logoColor=white)
+
+**Tools & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square\&logo=vercel\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Currently Learning
+
+```text
+Go
+├── Concurrency
+├── REST API
+├── Clean Architecture
+└── Backend Engineering
+
+Rust
+├── Ownership
+├── Borrowing
+├── Traits
+└── Systems Programming
+
+AI
+├── LLM APIs
+├── RAG
+├── Embeddings
+└── AI-powered Applications
+```
+
+---
+
+## 💡 What I Care About
+
+* Clean and maintainable code
+* Good UI/UX
+* Scalable architecture
+* Performance
+* Developer experience
+* Building products that solve real problems
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+
+### `Build. Learn. Improve. Repeat.`
+
+</div>
