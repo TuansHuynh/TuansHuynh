@@ -32,19 +32,6 @@ Currently      → Go · Rust · AI Engineering
 
 ---
 
-### 📚 Personal English Learning Platform
-
-> A personal web application for improving English vocabulary from A1 to B2.
-
-* Vocabulary learning
-* Vietnamese meanings
-* Level-based learning
-* Fast and lightweight architecture
-
-**Stack:** `React` `TypeScript`
-
----
-
 ### 📱 Keep Us
 
 > A private 1-to-1 photo and moment sharing application.
@@ -141,10 +128,10 @@ AI
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/TuansHuynh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME">
+  <a href="https://www.linkedin.com/in/tu%E1%BA%A5n-hu%E1%BB%B3nh-508540346/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
